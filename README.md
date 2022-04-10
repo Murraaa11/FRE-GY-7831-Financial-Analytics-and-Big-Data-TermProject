@@ -1,4 +1,4 @@
-# Pair-Trading
+# Pair-
 
 This team project implemented a simple Pair Trading Strategy using C++ and SQLite on given stock pairs (see **PairTrading.txt**).
 
